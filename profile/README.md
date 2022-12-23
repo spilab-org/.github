@@ -11,7 +11,7 @@
      align="left"
 />
 
-<p align="left">
+<p align="center">
     <a href="https://www.facebook.com/spilabgroups" target="_blank" rel="noreferrer">
         <img
             alt="facebook"
