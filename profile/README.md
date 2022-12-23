@@ -9,6 +9,7 @@
 <img
      src="/profile/assets/maskable_icon_x192.png"
      align="left"
+     width="20%"
 />
 
 <p align="center">
