@@ -3,6 +3,6 @@
 </h1>
 
 <img
-    src="./assets/banner.webp"
+    src="/profile/assets/banner.webp"
     alt="banner"
 />
