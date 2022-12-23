@@ -6,7 +6,12 @@
 
 <h1 align="center">SPI LAB (Science Protocol Inhabitant's Laboratory)</h1>
 
-<p align="center">
+<img
+     src="/profile/assets/maskable_icon_x192.png"
+     align="left"
+/>
+
+<p align="left">
     <a href="https://www.facebook.com/spilabgroups" target="_blank" rel="noreferrer">
         <img
             alt="facebook"
@@ -27,8 +32,10 @@
     </a>
 </p>
 
+<p align="justify">Welcome to the SPI LAB. This is an educational consultant, an organization that always explores the nature in the language of the science. It's silent & motionless but replies very houghtly. We always put our best to explain the nature, the universe and all its mysterious facts.
+</p>
 <p align="justify">
-    Welcome to the SPI LAB. This is an organization, an educational consultant 
+It was 2020, we finally estublished this organization, where as it was been announced early in 2018. Initially we created a Telegram channel and started gathering members as well as knowledge. We often held some online meetings to organize our lab and all the contents. Later we shifted to the Discord and that was easier to manage and automate so many tasks with Bots. Now we have our own website, server, api-services and so on.
 </p>
 
 ---
