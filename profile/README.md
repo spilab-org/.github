@@ -1,8 +1,8 @@
+<h1 style="font-weight: 700; font-size: 2.5rem;" align="center">SPI LAB
+<p style="font-weight: 400; font-size: 1.2rem;">Let's Explore The Nature Together.</p>
+</h1>
 
-<h1 style="align-items: center; display: flex; gap: 10px; font-weight: 700; font-size: 2.4rem">
 <img
-    src="./assets/maskable_icon_x48.png"
-    style="border-radius: 10px"
+    src="./assets/banner.webp"
+    alt="banner"
 />
-SPI LAB</h1>
-
